@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FrmHome.resources
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FrmLogIn.resources
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.FrmApply.resources
+C:\Users\asus\Desktop\C#\YemekSepeti\YemekSepeti\obj\Debug\YemekSepeti.Form4.resources
